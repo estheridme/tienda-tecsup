@@ -70,3 +70,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 ## Autor
 
 Desarrollado por **Esther Idme Apaza** - [GitHub](https://github.com)
+
+## Autor
+
+Hecho por **Esther Idme Apaza** - Grupo C15 - [GitHub](https://github.com)
